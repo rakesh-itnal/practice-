@@ -1,2 +1,3 @@
-# practice-
-<p>This is my practice repo</p>
+# Practice-
+This is my practice repo
+Author Rakesh Itnal
